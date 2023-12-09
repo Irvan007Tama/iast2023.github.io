@@ -1,0 +1,11 @@
+table tr{
+    border: 1px solid black;
+}
+
+.box-qr {
+    box-sizing: border-box;
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    border-radius: 2px;
+}
